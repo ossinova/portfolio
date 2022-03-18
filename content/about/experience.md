@@ -25,7 +25,7 @@ experience:
   - title: Consultant
     company: Capgemini
     company_url: ''
-    company_logo: org-cap
+    company_logo: org-gc
     location: Oslo, Norway
     date_start: '2021-12-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Junior Data Engineer
     company: Helthjem
     company_url: ''
-    company_logo: org-helthjem
+    company_logo: org-x
     location: Oslo, Norway
     date_start: '2020-11-01'
     date_end: '2021-07-31'
