@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Oscar Dyremyhr's Blog # Website name
-baseURL: 'https://oscardyremyhr.me' # Website URL
+baseURL: 'https://hungry-yonath-fb62e5.netlify.app/' # Website URL
 
 ############################
 ## PAGE OPTIONS
